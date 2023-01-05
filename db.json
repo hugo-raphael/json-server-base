@@ -6,6 +6,49 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "akali@mail.com",
+      "password": "$2a$10$AlvjmpdJV/LWXPDbYlkAqejKKAPY8C7z/kO5oYyrB6T/GOk2uoBwG",
+      "id": 2
+    }
+  ],
+  "jobs": [
+    {
+      "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjornaldobolsao.com.br%2Fwp-content%2Fuploads%2F2020%2F04%2Fmarcenaria-caseira-2.jpg&f=1&nofb=1&ipt=c86e95c4300383a98eaaeb457a57483b87ab8efadf782cc32228bf051e5490c4&ipo=images",
+      "user": "Cleber Marceneiro",
+      "description": "sou marceneiro boladão",
+      "job":"Marceneiro",
+      "category": ["Marcenaria"],
+      "price": 50,
+      "id": 3
+    },
+    {
+      "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.techniajz.com%2Ftechniajz%2Fassets%2Fuploads%2Fblog_images%2F2692f14dc16be36570ee05ef3bbf2583.jpg&f=1&nofb=1&ipt=0aa91a34979e773ac19249892a24e21c7fb2e43f4431913f06891265acf5d6e5&ipo=images",
+      "user": "Bill Gates",
+      "description": "sou desenvolvedor boladão",
+      "job":"Desenvolvedor",
+      "category": ["TI"],
+      "price": 3,
+      "id": 4
+    },
+    {
+      "img":"https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.4doc.net%2Fwp-content%2Fuploads%2F2020%2F07%2FTRADUTOR-PROFISSIONAL.png&f=1&nofb=1&ipt=0c2f6773a9d78f4d9410fd07bc263ff94dff2f6977718619ccc1cc288d92d493&ipo=images",
+      "user": "Cara da tradução",
+      "description": "sou tradutor boladão",
+      "job":"tradutor",
+      "category": ["Tradução"],
+      "price": 3,
+      "id": 5
+    },
+    {
+      "img":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmarketing2connect.com%2Fwp-content%2Fuploads%2F2020%2F06%2FFeatured_About.jpg&f=1&nofb=1&ipt=ee4ec5c83e11f225ef4e249e18edbbbd9a3de258f37b2f3ecf0daae49bd03fd3&ipo=images",
+      "user": "Cara do marketing",
+      "description": "sou marketeiro boladão",
+      "job":"Marketeiro",
+      "category": ["Marketing"],
+      "price": 3,
+      "id": 6
     }
   ]
 }
