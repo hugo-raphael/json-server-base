@@ -9,7 +9,7 @@
     },
     {
       "email": "akali@mail.com",
-      "password": "$2a$10$AlvjmpdJV/LWXPDbYlkAqejKKAPY8C7z/kO5oYyrB6T/GOk2uoBwG",
+      "password": "123456",
       "id": 2
     }
   ],
@@ -20,11 +20,11 @@
       "productName": "Cleber Marceneiro",
       "description": "sou marceneiro boladão",
       "job":{
-        "status": true,
+        "status": false,
         "jobName": "legal",
         "contractor": 2
       },
-      "category": ["Marcenaria"],
+      "category": "Marcenaria",
       "price": 50,
       "id": 3
     },
@@ -34,11 +34,11 @@
       "productName": "Bill Gates",
       "description": "sou desenvolvedor boladão",
       "job":{
-        "status": true,
+        "status": false,
         "jobName": "legal",
         "contractor": 2
       },
-      "category": ["TI"],
+      "category": "TI",
       "price": 3,
       "id": 4
     },
@@ -47,11 +47,11 @@
       "productName": "Cara da tradução",
       "description": "sou tradutor boladão",
       "job":{
-        "status": true,
+        "status": false,
         "jobName": "legal",
         "contractor": 2
       },
-      "category": ["Tradução"],
+      "category": "Tradução",
       "price": 3,
       "id": 5
     },
@@ -60,11 +60,11 @@
       "productName": "Cara do marketing",
       "description": "sou marketeiro boladão",
       "job":{
-        "status": true,
+        "status": false,
         "jobName": "legal",
         "contractor": 2
       },
-      "category": ["Marketing"],
+      "category": "Marketing",
       "price": 3,
       "id": 6
     }
